@@ -37,7 +37,7 @@
 </head>
 <body>
 
-  <p>Brincadeira — <a id="brincalink" class="fakeLink">Clique aqui</a></p>
+  <p> — <a id="brincalink" class="fakeLink">Clique aqui</a></p>
 
   <div id="overlay" class="overlay">
     <div class="box">
