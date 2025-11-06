@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Brincadeira de Mensagem Flutuante</title>
+  <title> de Mensagem Flutuante</title>
   <style>
     body { font-family: sans-serif; padding: 40px; text-align: center; }
     a.fakeLink { color: #007bff; text-decoration: none; cursor: pointer; font-size: 1.2em; }
